@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [AirBnB Backend Clone] (https://github.com/kellyxglobal/AirBnB_clone)
+- 🔭 I’m currently working on [ AirBnB Backend Clone ] ( https://github.com/kellyxglobal/AirBnB_clone )
 - 🌱 I’m currently learning Python at ALX Holberton School
 - 👯 I’m looking to collaborate on Python related Awesome projects.
 - 👨🏽‍🎓 Software engineering student at ALX Holberton School.
