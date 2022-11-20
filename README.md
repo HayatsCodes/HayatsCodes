@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hayatudeenabdulrahman@gmail.com
 - ⚡ Fun fact: A passionate software engineer | Love watching documentaries | Religious!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=religiousCoder&theme=merko)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=religiousCoder&theme=merko)](https://git.io/streak-stats) -->
 
 
