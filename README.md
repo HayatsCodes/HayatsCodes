@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on awesome open source projects.
 <!-- 👨🏽‍🎓 Software engineering student at ALX Holberton School. -->
 <!-- 💬 Blog [hayats builds](religiouscoder.hashnode.dev) -->
-- 👨🏽‍💻 Good with Python and C (still learning JavaScript)
+- 👨🏽‍💻 Good with C and Python (still learning JavaScript)
 - 💬 Twitter [@hayats_codes](https://twitter.com/hayats_codes)
 - 📫 How to reach me: hayatudeenabdulrahman@gmail.com
 - ⚡ Fun fact: A passionate software engineer | Love watching documentaries | A proud Muslim!
