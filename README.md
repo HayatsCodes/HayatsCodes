@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on becoming a [fullstack MERN developer]( https://github.com/HayatsCodes/fullstack_js)
+- 🔭 I’m currently working on becoming a [fullstack JAVASCRIPT developer]( https://github.com/HayatsCodes/UDACITY_FULLSTACK-JS)
 - 🌱 I’m currently self-learning [advanced CSS]( https://github.com/HayatsCodes/fullstack_js)
 - 👯 I’m looking to collaborate on awesome open source projects.
-<!-- 👨🏽‍🎓 Software engineering student at ALX Holberton School. -->
+- 👨🏽‍🎓 Software engineering Student at ALX UDACITY.
 <!-- 💬 Blog [hayats builds](religiouscoder.hashnode.dev) -->
-- 👨🏽‍💻 Good with C and Python (still learning JavaScript)
+- 👨🏽‍💻 Good with C, Python and JavaScript.
 - 💬 Twitter [@hayats_codes](https://twitter.com/hayats_codes)
 - 📫 How to reach me: hayatudeenabdulrahman@gmail.com
 - ⚡ Fun fact: A passionate software engineer | Love watching documentaries | A proud Muslim!
