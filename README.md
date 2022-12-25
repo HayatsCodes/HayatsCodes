@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HayatsCodes&theme=merko)](https://git.io/streak-stats)
 
 ### GitHub Stats
-![Hayatudeen's github stats](https://github-readme-stats.vercel.app/api?username=HayatsCodes&show_icons=true&theme=great-gatsby)
+![Hayatudeen's github stats](https://github-readme-stats.vercel.app/api?username=HayatsCodes&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HayatsCodes&theme=great-gatsby&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HayatsCodes&theme=merko&layout=compact)
 
 
