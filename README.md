@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on becoming a [fullstack JAVASCRIPT developer]( https://github.com/HayatsCodes/UDACITY_FULLSTACK-JS)
-- 🌱 I’m currently self-learning [advanced CSS]( https://github.com/HayatsCodes/fullstack_js)
+- 🌱 I’m currently self-learning [JavaScript]( https://github.com/HayatsCodes/fullstack_js)
 - 👯 I’m looking to collaborate on awesome open source projects.
 - 👨🏽‍🎓 Software engineering Student at ALX UDACITY.
 <!-- 💬 Blog [hayats builds](religiouscoder.hashnode.dev) -->
