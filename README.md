@@ -4,7 +4,7 @@
 - 🌱 I’m currently self-learning [backend Javascript (node and express)]( https://github.com/HayatsCodes/fullstack_js)
 - 👯 I’m looking to collaborate on awesome open source projects.
 - 💬 Twitter [@hayats_codes](https://twitter.com/hayats_codes)
-- 📫 How to reach me: hayatudeenabdulrahman@gmail.com
+- 📫 How to reach me: hayatscodes@gmail.com
 - ⚡ Fun fact: A passionate software engineer | Love watching documentaries | A proud Muslim!
 
 ### GitHub Streak
