@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Hayatudeen, and I love coding 🥰
 
-- 🔭 I’m currently working on becoming a [Backend Developer]( https://github.com/HayatsCodes/fullstack_js)
-- 🌱 I’m currently self-learning [backend Javascript (node and express)]( https://github.com/HayatsCodes/fullstack_js)
+- 🔭 I’m currently working on becoming a [Backend Developer]( https://github.com/HayatsCodes/backend_js)
+- 🌱 I’m currently self-learning [backend Javascript (node and express)]( https://github.com/HayatsCodes/backend_js)
 - 👯 I’m looking to collaborate on awesome open source projects.
 - 💬 Twitter [@hayats_codes](https://twitter.com/hayats_codes)
 - 📫 How to reach me: hayatscodes@gmail.com
