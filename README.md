@@ -8,7 +8,7 @@
 - ⚡ Fun fact: A passionate software engineer | Love watching documentaries | A proud Muslim!
 
 ### GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HayatsCodes&theme=merko)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=HayatsCodes&theme=merko)](https://git.io/streak-stats) -->
 
 ### GitHub Stats
 ![Hayatudeen's github stats](https://github-readme-stats.vercel.app/api?username=HayatsCodes&show_icons=true&theme=merko)
