@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hayatudeen, and I love coding 🥰
+### Hi there 👋 I'm Hayatudeen, and I love coding
 
 - 🔭 I’m currently working on becoming a [Backend Developer]( https://github.com/HayatsCodes/backend_js)
 - 🌱 I’m currently self-learning [backend Javascript (node and express)]( https://github.com/HayatsCodes/backend_js)
