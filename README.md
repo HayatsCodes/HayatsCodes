@@ -8,8 +8,8 @@ Been programming for about a year but recently found the interest in becoming a 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [hayatscodes@gmail.com](mailto:hayatscodes@gmail.com)
-* 🚀  I'm currently working on [BookTown backend](http://github.com/HayatsCodes/BookTown)
-* 🧠  I'm learning AWS + Docker
+* 🚀  I'm currently working on [jobHub backend](http://github.com/HayatsCodes/JobHub)
+* 🧠  I'm learning to build scalable backend systems
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  A passionate software engineer
 
