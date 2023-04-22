@@ -4,14 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend developer
 -----------------
 
-Been programming for about a year but recently found the interest in becoming a backend developer
+I'm a dedicated and detail-oriented developer who loves to collaborate with others and learn new things.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [hayatscodes@gmail.com](mailto:hayatscodes@gmail.com)
 * 🚀  I'm currently working on [JobHub backend](http://github.com/HayatsCodes/JobHub)
 * 🧠  I'm learning to build secure and scalable backend systems
-* 🤝  I'm open to collaborating on Interesting projects
-* ⚡  A passionate software engineer
+* 👀  Looking for new challenges and opportunities to grow my skills
+* 🤝  I'm open to collaborating on Interesting projects. Let's build something amazing together!
+* ⚡  A passionate software engineer
 
 ### Skills
 
