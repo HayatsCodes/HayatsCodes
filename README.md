@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend developer
 -----------------
 
-I'm a dedicated and detail-oriented developer who loves to collaborate with others and learn new things.
+I'm a dedicated and detail-oriented software engineer who loves to collaborate with others and learn new things.
 
 * 🌍  I'm based in Nigeria
 * 🚀  I'm currently working on [JobHub backend](http://github.com/HayatsCodes/JobHub)
