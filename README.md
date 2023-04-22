@@ -7,12 +7,12 @@ Backend developer
 I'm a dedicated and detail-oriented developer who loves to collaborate with others and learn new things.
 
 * 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [hayatscodes@gmail.com](mailto:hayatscodes@gmail.com)
 * 🚀  I'm currently working on [JobHub backend](http://github.com/HayatsCodes/JobHub)
 * 🧠  I'm learning to build secure and scalable backend systems
+* ⚡  A passionate software engineer
 * 👀  Looking for new challenges and opportunities to grow my skills
 * 🤝  I'm open to collaborating on Interesting projects. Let's build something amazing together!
-* ⚡  A passionate software engineer
+* ✉️  You can contact me at [hayatscodes@gmail.com](mailto:hayatscodes@gmail.com)
 
 ### Skills
 
