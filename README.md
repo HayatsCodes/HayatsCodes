@@ -63,6 +63,7 @@ I'm a dedicated and detail-oriented software engineer who loves to collaborate w
     </a>
   </div>
 </div>
+
 ### Latest DEV Articles
 
 <!-- BLOG-POST-LIST:START -->
