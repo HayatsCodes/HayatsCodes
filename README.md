@@ -67,6 +67,7 @@ I'm a dedicated and detail-oriented software engineer who loves to collaborate w
 ### Latest DEV Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with GitHub Codespaces on VS Code](https://dev.to/hayatscodes/getting-started-with-github-codespaces-on-vs-code-3i32)
 - [Technologies and Tools - GitHub + DEV Hackathon Progress Update](https://dev.to/hayatscodes/technologies-and-tools-github-dev-hackathon-progress-update-4312)
 - [Idea: A Command-Line Chat Application - GitHub + DEV Hackathon Progress Update](https://dev.to/hayatscodes/idea-a-command-line-chat-application-github-dev-hackathon-progress-update-1ng4)
 - [The Linux Alias command: Making Your Own Custom Shell Command Shortcuts](https://dev.to/hayatscodes/the-linux-alias-command-making-your-own-custom-shell-command-shortcuts-4ij0)
