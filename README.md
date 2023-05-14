@@ -62,4 +62,6 @@ I'm a dedicated and detail-oriented software engineer who loves to collaborate w
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=task-manager-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
   </div>
-</div> 
+</div>
+[![HayatsCode's articles](https://github-readme-devto.herokuapp.com?username=hayatscodes)](https://dev.to/hayatscodes)
+
