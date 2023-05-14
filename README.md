@@ -63,5 +63,6 @@ I'm a dedicated and detail-oriented software engineer who loves to collaborate w
     </a>
   </div>
 </div>
-[![HayatsCode's articles](https://github-readme-devto.herokuapp.com?username=hayatscodes)](https://dev.to/hayatscodes)
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
