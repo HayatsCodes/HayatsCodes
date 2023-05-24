@@ -67,9 +67,9 @@ I'm a dedicated and detail-oriented software engineer who loves to collaborate w
 ### Latest DEV Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Terminal-Chat-App: Chat, Create, and Join Public Chat Rooms from the Command Line](https://dev.to/hayatscodes/introducing-terminal-chat-app-chat-create-and-join-public-chat-rooms-from-the-command-line-291)
 - [From Tutorial Hell to Project Heaven: 5 Lessons from My First Project](https://dev.to/hayatscodes/from-tutorial-hell-to-project-heaven-5-lessons-from-my-first-project-3neg)
 - [Getting Started with GitHub Codespaces on VS Code](https://dev.to/hayatscodes/getting-started-with-github-codespaces-on-vs-code-3i32)
 - [Technologies and Tools - GitHub + DEV Hackathon Progress Update](https://dev.to/hayatscodes/technologies-and-tools-github-dev-hackathon-progress-update-4312)
 - [Idea: A Command-Line Chat Application - GitHub + DEV Hackathon Progress Update](https://dev.to/hayatscodes/idea-a-command-line-chat-application-github-dev-hackathon-progress-update-1ng4)
-- [The JavaScript Assignment, Equality, and Strict Equality operators](https://dev.to/hayatscodes/the-javascript-assignment-equality-and-strict-equality-operators-3i5f)
 <!-- BLOG-POST-LIST:END -->
