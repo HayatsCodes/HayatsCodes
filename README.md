@@ -49,16 +49,16 @@ I'm a dedicated and detail-oriented software engineer who loves to collaborate w
     <a href="https://github.com/HayatsCodes/gutenberg-fiction-books-api" style="margin: 5px;" >
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=gutenberg-fiction-books-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
-    <a href="https://github.com/HayatsCodes/jobhub" style="margin: 5px;" >
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=jobhub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <a href="https://github.com/HayatsCodes/terminal-chat-app" style="margin: 5px;" >
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=terminal-chat-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
   </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <a href="https://github.com/HayatsCodes/QR-Bot" style="margin: 5px;" >
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=QR-Bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
-     <a href="https://github.com/HayatsCodes/terminal-chat-app" style="margin: 5px;" >
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=terminal-chat-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <a href="https://github.com/HayatsCodes/jobhub" style="margin: 5px;" >
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=jobhub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
   </div>
 </div>
