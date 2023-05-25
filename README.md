@@ -63,7 +63,7 @@ I'm a dedicated and detail-oriented software engineer who loves to collaborate w
   </div>
 </div>
 
-### Latest DEV Articles
+### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
 - [From Tutorial Hell to Project Heaven: 5 Lessons from My First Project](https://hayatscodes.hashnode.dev/from-tutorial-hell-to-project-heaven-5-lessons-from-my-first-project)
