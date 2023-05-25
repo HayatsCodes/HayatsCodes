@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # Your RSS feed url
-          feed_list: "https://dev.to/feed/hayatscodes"
+          feed_list: "https://hayatscodes.hashnode.dev/rss.xml"
