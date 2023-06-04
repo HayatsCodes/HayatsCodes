@@ -7,7 +7,7 @@ Software Engineer (Backend)
 I'm a dedicated and detail-oriented software engineer who loves to collaborate with others and learn new things.
 
 * 🌍  I'm based in Nigeria
-* 🚀  I'm currently working on [Terminal Chat App](http://github.com/HayatsCodes/terminal-chat-app)
+* 🚀  I'm currently opened to junior or software engineer intern roles
 * 🧠  I'm learning to build secure and scalable backend systems
 * ⚡  A passionate software engineer
 * 👀  Looking for new challenges and opportunities to grow my skills
