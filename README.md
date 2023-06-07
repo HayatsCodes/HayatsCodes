@@ -66,9 +66,9 @@ I'm a dedicated and detail-oriented software engineer who loves to collaborate w
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Command-Line Chat Application: Project Reflections](https://hayatscodes.hashnode.dev/how-i-built-a-command-line-chat-application-project-reflections)
+- [How I Built a Command-Line Chat Application: The Client Code Explained](https://hayatscodes.hashnode.dev/how-i-built-a-command-line-chat-application-the-client-code-explained)
+- [How I Built a Command-Line Chat Application: The Server Code Explained](https://hayatscodes.hashnode.dev/how-i-built-a-command-line-chat-application-the-server-code-explained)
 - [How I Built a Command-Line Chat Application: Project Details](https://hayatscodes.hashnode.dev/how-i-built-a-command-line-chat-application-project-details)
 - [From Tutorial Hell to Project Heaven: 5 Lessons from My First Project](https://hayatscodes.hashnode.dev/from-tutorial-hell-to-project-heaven-5-lessons-from-my-first-project)
-- [Getting Started with GitHub Codespaces on VS Code](https://hayatscodes.hashnode.dev/getting-started-with-github-codespaces-on-vs-code)
-- [The JavaScript Assignment, Equality, and Strict Equality operators](https://hayatscodes.hashnode.dev/the-javascript-assignment-equality-and-strict-equality-operators-e56aaded4bfd)
-- [Linux Shell Programming: Creating Your First Shell Script](https://hayatscodes.hashnode.dev/linux-shell-programming-creating-your-first-shell-script-180071813dec)
 <!-- BLOG-POST-LIST:END -->
