@@ -66,7 +66,7 @@ I'm a dedicated and detail-oriented software engineer who loves to collaborate w
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Command-line Chat Application](https://hayatscodes.hashnode.dev/how-i-built-a-command-line-chat-application)
+- [How I Built a Command-Line Chat Application: Project Details](https://hayatscodes.hashnode.dev/how-i-built-a-command-line-chat-application-project-details)
 - [From Tutorial Hell to Project Heaven: 5 Lessons from My First Project](https://hayatscodes.hashnode.dev/from-tutorial-hell-to-project-heaven-5-lessons-from-my-first-project)
 - [Getting Started with GitHub Codespaces on VS Code](https://hayatscodes.hashnode.dev/getting-started-with-github-codespaces-on-vs-code)
 - [The JavaScript Assignment, Equality, and Strict Equality operators](https://hayatscodes.hashnode.dev/the-javascript-assignment-equality-and-strict-equality-operators-e56aaded4bfd)
