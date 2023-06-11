@@ -6,13 +6,13 @@ Software Engineer (Backend)
 
 I'm a dedicated and detail-oriented software engineer who loves to collaborate with others and learn new things.
 
-* 🌍  I'm based in Nigeria
-* 🚀  I'm currently opened to junior or software engineer intern roles
-* 🧠  I'm learning to build secure and scalable backend systems
-* ⚡  A passionate software engineer
-* 👀  Looking for new challenges and opportunities to grow my skills
+* 🌍  I'm based in Nigeria.
+* 🚀  I'm currently open to junior or software engineer intern roles.
+* 🧠  I'm learning to build secure and scalable backend systems.
+* ⚡  A passionate software engineer.
+* 👀  Looking for new challenges and opportunities to grow my skills.
 * 🤝  I'm open to collaborating on Interesting projects. Let's build something amazing together!
-* ✉️  You can contact me at [hayatscodes@gmail.com](mailto:hayatscodes@gmail.com)
+* ✉️  You can contact me at [hayatscodes@gmail.com](mailto:hayatscodes@gmail.com).
 
 ### Skills
 
