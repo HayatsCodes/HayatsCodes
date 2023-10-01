@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hayatudeen Abdulrahman
 ==============================================================================================================================================
 
-Software Engineer (Backend)
+Software Engineer (Full-stack)
 -----------------
 
 I'm a dedicated and detail-oriented software engineer who loves to collaborate with others and learn new things.
 
 * 🌍  I'm based in Nigeria.
-* 🚀  I'm currently open to junior or software engineer intern roles.
-* 🧠  I'm learning to build secure and scalable backend systems.
+* 🚀  I'm currently open to junior or software engineer roles.
+* 🧠  I'm learning to build secure and scalable full-stack systems.
 * ⚡  A passionate software engineer.
 * 👀  Looking for new challenges and opportunities to grow my skills.
 * 🤝  I'm open to collaborating on Interesting projects. Let's build something amazing together!
