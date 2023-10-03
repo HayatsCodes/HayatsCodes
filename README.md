@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer (Full-stack)
 -----------------
 
-I'm a dedicated and detail-oriented software engineer who loves to collaborate with others and learn new things.
+I'm a dedicated software engineer who loves to collaborate with others and learn new things.
 
 * 🌍  I'm based in Nigeria.
 * 🚀  I'm currently open to junior or entry-level software engineer roles.
@@ -12,6 +12,7 @@ I'm a dedicated and detail-oriented software engineer who loves to collaborate w
 * ⚡  A passionate software engineer.
 * 👀  Looking for new challenges and opportunities to grow my skills.
 * 🤝  I'm open to collaborating on Interesting projects. Let's build something amazing together!
+* 📄 Know about my experiences [https://docs.google.com/document/d/1jxcLQdnZY9uwiiL2WTogairrD75FPX40TXVRrpmNNIs/edit?usp=sharing](https://docs.google.com/document/d/1jxcLQdnZY9uwiiL2WTogairrD75FPX40TXVRrpmNNIs/edit?usp=sharing)
 * ✉️  You can contact me at [hayatscodes@gmail.com](mailto:hayatscodes@gmail.com).
 
 ### Skills
