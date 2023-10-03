@@ -28,6 +28,8 @@ I'm a dedicated and detail-oriented software engineer who loves to collaborate w
 <!-- <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a> -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
+<a href="https://www.react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+</p>
 
 
 ### Socials
@@ -44,7 +46,16 @@ I'm a dedicated and detail-oriented software engineer who loves to collaborate w
 
 <b>Top Repositories</b>
 
+
+
 <div align="center">
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <a href="https://github.com/HayatsCodes/find-countries" style="margin: 5px;" >
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=find-countries&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+  </div>
+  
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <a href="https://github.com/HayatsCodes/gutenberg-fiction-books-api" style="margin: 5px;" >
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=gutenberg-fiction-books-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
@@ -61,6 +72,7 @@ I'm a dedicated and detail-oriented software engineer who loves to collaborate w
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=jobhub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
   </div>
+  
 </div>
 
 ### Latest Blog Post
