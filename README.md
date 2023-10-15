@@ -7,7 +7,7 @@ Software Engineer (Full-stack)
 I'm a dedicated software engineer who loves to collaborate with others and learn new things.
 
 * 🌍  I'm based in Nigeria.
-* 🚀  I'm currently open to junior or entry-level software engineer roles.
+* 🚀  I'm currently open to full stack software engineer roles.
 * 🧠  I'm learning to build secure and scalable full-stack systems.
 * ⚡  A passionate software engineer.
 * 👀  Looking for new challenges and opportunities to grow my skills.
