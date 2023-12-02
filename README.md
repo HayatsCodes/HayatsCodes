@@ -51,19 +51,19 @@ I'm a dedicated software engineer who loves to collaborate with others and learn
 
 <div align="center">
 
-    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
         <a href="https://github.com/Klusterton/ai-dr-nodejs-api" style="margin: 5px;">
             <img
                 src="https://github-readme-stats.vercel.app/api/pin/?username=Klusterton&repo=ai-dr-nodejs-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
         </a>
 
-        <a href="https://github.com/HayatsCodes/find-countries" style="margin: 5px;">
-            <img
+<a href="https://github.com/HayatsCodes/find-countries" style="margin: 5px;">
+        <img
                 src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=find-countries&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-        </a>
-    </div>
+    </a>
+</div>
 
-    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
         <a href="https://github.com/HayatsCodes/gutenberg-fiction-books-api" style="margin: 5px;">
             <img
                 src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=gutenberg-fiction-books-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
