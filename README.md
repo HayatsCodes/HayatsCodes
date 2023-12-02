@@ -85,6 +85,7 @@ I'm a dedicated software engineer who loves to collaborate with others and learn
     </div>
 
 </div>
+
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
