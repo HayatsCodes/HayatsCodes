@@ -89,9 +89,7 @@ I'm a dedicated software engineer who loves to collaborate with others and learn
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [API Testing 101: A Beginner&#39;s Guide to
-Testing Nodejs APIs with Jest and
-Supertest](https://hayatscodes.hashnode.dev/api-testing-101-a-beginners-guide-to-testing-nodejs-apis-with-jest-and-supertest)
+- [API Testing 101: A Beginner&#39;s Guide toTesting Nodejs APIs with Jest andSupertest](https://hayatscodes.hashnode.dev/api-testing-101-a-beginners-guide-to-testing-nodejs-apis-with-jest-and-supertest)
 - [Socket.IO Authentication System With JWT](https://hayatscodes.hashnode.dev/socketio-authentication-system-with-jwt)
 - [How I Built a Command-Line Chat Application: Project Reflections](https://hayatscodes.hashnode.dev/how-i-built-a-command-line-chat-application-project-reflections)
 - [How I Built a Command-Line Chat Application: The Client Code Explained](https://hayatscodes.hashnode.dev/how-i-built-a-command-line-chat-application-the-client-code-explained)
