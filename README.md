@@ -76,9 +76,9 @@ I'm a dedicated software engineer who loves to collaborate with others and learn
             <img
                 src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=QR-Bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
         </a>
-        <a href="https://github.com/HayatsCodes/jobhub" style="margin: 5px;">
+        <a href="https://github.com/HayatsCodes/terminal-chat-app-frontend" style="margin: 5px;">
             <img
-                src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=jobhub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+                src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=terminal-chat-app-frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
         </a>
     </div>
 
