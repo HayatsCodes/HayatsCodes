@@ -12,7 +12,7 @@ I'm a dedicated software engineer who loves to collaborate with others and learn
 * ⚡  A passionate software engineer.
 * 👀  Looking for new challenges and opportunities to grow my skills.
 * 🤝  I'm open to collaborating on Interesting projects. Let's build something amazing together!
-* 📄 Know about my experiences [here](https://docs.google.com/document/d/1jxcLQdnZY9uwiiL2WTogairrD75FPX40TXVRrpmNNIs/edit?usp=sharing)
+* 📄 Know about my experiences [here](https://hayatscodes.vercel.app)
 * ✉️  You can contact me at [hayatscodes@gmail.com](mailto:hayatscodes@gmail.com)
 
 ### Skills
