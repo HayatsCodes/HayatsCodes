@@ -14,9 +14,7 @@
 
 </div>
 
-## Hi, I'm Hayats
-
-Nearly five years of building software for startups, two of them taken from idea to product-market fit. Once the product worked, growth was the bottleneck, and growth is full of repeat steps. Developers automate repeat steps, so I moved into GTM engineering.
+Hi, I'm Hayats. Nearly five years of building software for startups, two of them taken from idea to product-market fit. Once the product worked, growth was the bottleneck, and growth is full of repeat steps. Developers automate repeat steps, so I moved into GTM engineering.
 
 The last three months I've spent sending email at scale myself, which is how I learned what breaks first and what's worth building.
 
