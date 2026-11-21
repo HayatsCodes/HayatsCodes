@@ -14,7 +14,7 @@
 
 </div>
 
-## From developer to GTM engineer
+## Hi, I'm Hayats
 
 Nearly five years of building software for startups, two of them taken from idea to product-market fit. Once the product worked, growth was the bottleneck, and growth is full of repeat steps. Developers automate repeat steps, so I moved into GTM engineering.
 
