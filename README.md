@@ -14,11 +14,13 @@
 
 </div>
 
-## Hi, I'm Hayatudeen
+## From developer to GTM engineer
 
-I'm an **AI growth engineer** for B2B companies. I build the automation, custom software and AI systems that find leads, qualify them, close deals and support growth.
+I started as a developer, and for nearly five years I built software for startups. I took two of them from idea to product-market fit, so I know what it takes to get a young product to the point where people want it.
 
-I was a developer for nearly five years first. I took two startups from idea to product-market fit, then moved into go-to-market engineering and spent the last few months sending email at scale. That is the work I do now.
+Once a product works, growth becomes the job: reaching the right people, turning interest into conversations, and keeping up as customers arrive. That work is full of repeat steps, and repeat steps are what developers automate. So I moved into GTM engineering, to build the systems growth needs instead of waiting for them.
+
+For the last three months I've been learning by doing: sending email at scale. Domains and inboxes, data sourcing and verification, message testing, fast replies. Running it myself is how I learned which parts break first and which are worth building.
 
 > **Guarantee:** 20 qualified meetings in 60 days, or I keep working for free.
 
