@@ -1,96 +1,79 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hayatudeen Abdulrahman
-==============================================================================================================================================
+<div align="center">
 
-Full-stack Software Engineer
------------------
+<a href="https://hayatscodes.com">
+  <img src="assets/banner.png" alt="HayatsCodes: AI growth engineer for B2B companies" width="100%" />
+</a>
 
-I'm a dedicated software engineer who loves to collaborate with others and learn new things.
+<br />
 
-* 🌍  I'm based in Nigeria.
-* 🚀  I'm currently open to full stack software engineer roles.
-* 🧠  I'm learning to build secure and scalable full-stack systems.
-* ⚡  A passionate software engineer.
-* 👀  Looking for new challenges and opportunities to grow my skills.
-* 🤝  I'm open to collaborating on Interesting projects. Let's build something amazing together!
-* 📄 Know about my experiences [here](https://drive.google.com/file/d/1o8WgNzTOrJ1kobOja9hqXJMWFnuIo-ox/view?usp=sharing)
-* ✉️  You can contact me at [hayatscodes@gmail.com](mailto:hayatscodes@gmail.com)
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<!-- <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a> -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-</p>
-<a href="https://www.react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.dev.to/hayatscodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/HayatsCodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hayatscodes.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hayatscodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/hayatscodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hayats_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/HayatsCodes"><img src="https://github-readme-stats.vercel.app/api?username=HayatsCodes&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HayatsCodes's GitHub stats" /></a>
-
-<a href="https://github.com/HayatsCodes" width="50%" height="200px" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HayatsCodes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-----------------------------------------------------------------------------
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;"></div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-        <a href="https://github.com/Klusterton/ai-dr-nodejs-api/tree/development" style="margin: 5px;">
-            <img
-                src="https://github-readme-stats.vercel.app/api/pin/?username=Klusterton&repo=ai-dr-nodejs-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-        </a>
-
-<a href="https://github.com/HayatsCodes/find-countries" style="margin: 5px;">
-        <img
-                src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=find-countries&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-        <a href="https://github.com/HayatsCodes/gutenberg-fiction-books-api" style="margin: 5px;">
-            <img
-                src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=gutenberg-fiction-books-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-        </a>
-        <a href="https://github.com/HayatsCodes/terminal-chat-app" style="margin: 5px;">
-            <img
-                src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=terminal-chat-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-        </a>
-    </div>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-        <a href="https://github.com/HayatsCodes/QR-Bot" style="margin: 5px;">
-            <img
-                src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=QR-Bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-        </a>
-        <a href="https://github.com/HayatsCodes/terminal-chat-app-frontend" style="margin: 5px;">
-            <img
-                src="https://github-readme-stats.vercel.app/api/pin/?username=HayatsCodes&repo=terminal-chat-app-frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-        </a>
-    </div>
+[![Website](https://img.shields.io/badge/hayatscodes.com-0d060b?style=for-the-badge&labelColor=0d060b&color=ff488b)](https://hayatscodes.com)
+[![Book a call](https://img.shields.io/badge/Book_a_call-0d060b?style=for-the-badge&labelColor=0d060b&color=1b0e17)](https://cal.eu/hayatscodes-studio/discovery)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d060b?style=for-the-badge&labelColor=0d060b&color=1b0e17)](https://www.linkedin.com/in/hayatscodes)
+[![X](https://img.shields.io/badge/X-0d060b?style=for-the-badge&labelColor=0d060b&color=1b0e17)](https://www.twitter.com/hayats_codes)
+[![Blog](https://img.shields.io/badge/Blog-0d060b?style=for-the-badge&labelColor=0d060b&color=1b0e17)](https://hayatscodes.hashnode.dev)
 
 </div>
 
-### Latest Blog Post
+## Hi, I'm Hayatudeen
 
-<!-- BLOG-POST-LIST:START -->
-- [API Testing 101: A Beginner&#39;s Guide toTesting Nodejs APIs with Jest andSupertest](https://blog.hayatscodes.me/api-testing-101-a-beginners-guide-to-testing-nodejs-apis-with-jest-and-supertest)
-- [Socket.IO Authentication System With JWT](https://blog.hayatscodes.me/socketio-authentication-system-with-jwt)
-- [How I Built a Command-Line Chat Application: Project Reflections](https://blog.hayatscodes.me/how-i-built-a-command-line-chat-application-project-reflections)
-- [How I Built a Command-Line Chat Application: The Client Code Explained](https://blog.hayatscodes.me/how-i-built-a-command-line-chat-application-the-client-code-explained)
-- [How I Built a Command-Line Chat Application: The Server Code Explained](https://blog.hayatscodes.me/how-i-built-a-command-line-chat-application-the-server-code-explained)
-<!-- BLOG-POST-LIST:END -->
+I'm an **AI growth engineer** for B2B companies. I build the automation, custom software and AI systems that find leads, qualify them, close deals and support growth.
+
+I was a developer for nearly five years first. I took two startups from idea to product-market fit, then moved into go-to-market engineering and spent the last few months sending email at scale. That is the work I do now.
+
+> **Guarantee:** 20 qualified meetings in 60 days, or I keep working for free.
+
+## How I work: R.A.C.E.
+
+| | Stage | What I build |
+|---|---|---|
+| 🎯 | **Reach** | Lead sourcing, enrichment and verified outreach, sent from warmed domains |
+| 🧠 | **Acquire** | AI that researches each lead, qualifies it and writes the reply |
+| 📅 | **Convert** | Reply alerts in minutes, booking, and reminders so meetings get held |
+| 🌱 | **Expand** | CRM sync, follow-up and the next campaign built from what worked |
+
+## The 60 days
+
+1. **Set up:** domains, inboxes, tracking and the first verified lead list.
+2. **Build:** the research agent, the offer and the first campaign.
+3. **Launch:** sending, reply alerts and same-day calls with interested prospects.
+4. **Optimize and scale:** keep what books meetings, cut what does not, send more.
+
+## What I've built
+
+- **Leads and campaign planner:** turns an ideal customer profile into a lead list and a campaign plan.
+- **Lead research agent:** reads each company, scores it against the profile and drafts the opener.
+- **Lead sourcing system:** finds and verifies the right people at the right companies.
+
+These live in private repositories. The workflows I give away are on the site.
+
+## Claude Code workflows you can copy
+
+Skills for Claude Code that I use in my own campaigns. Copy one into `.claude/skills/` and run it.
+
+| Workflow | What it does |
+|---|---|
+| **Google News RSS monitoring** | Turns funding, hiring and launch news into a fresh, import-ready prospect list |
+| **Fast reply system** | Alerts, tags and ready answers so interested prospects hear back in minutes |
+| **Meeting show-up workflow** | Confirmations, reminders and follow-up that turn booked meetings into held ones |
+| **Claude and Monid data workflow** | Finds a data source, tests a sample, checks accuracy and scales under a budget |
+
+**[Get the skills at hayatscodes.com/workflows](https://hayatscodes.com/workflows)**
+
+## Tools I use
+
+<table>
+<tr><td><b>Find and enrich</b></td><td>Monid · Apify · Apollo · Clay · Hunter · Vayne · DataForSEO</td></tr>
+<tr><td><b>Think and automate</b></td><td>Claude · Claude Code · ChatGPT · Codex · Cursor · n8n · Make</td></tr>
+<tr><td><b>Send and track</b></td><td>Instantly · Origami · HubSpot</td></tr>
+<tr><td><b>Build</b></td><td>TypeScript · Node.js · React · Next.js · Python</td></tr>
+</table>
+
+## Writing
+
+- [GTM Engineering With Claude: A Beginner's Guide for B2B Teams](https://hayatscodes.hashnode.dev/gtm-engineering-with-claude-a-beginner-s-guide-for-b2b-teams): how B2B teams can use Claude Code for lead lists, email verification, outreach and booked meetings.
+
+More on the [blog](https://hayatscodes.hashnode.dev).
+
+## Work with me
+
+If your pipeline depends on cold outbound and you want it built, measured and guaranteed, [book a call](https://cal.eu/hayatscodes-studio/discovery) or write to [hayatscodes@gmail.com](mailto:hayatscodes@gmail.com).
