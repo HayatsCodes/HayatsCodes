@@ -16,11 +16,9 @@
 
 ## From developer to GTM engineer
 
-I started as a developer, and for nearly five years I built software for startups. I took two of them from idea to product-market fit, so I know what it takes to get a young product to the point where people want it.
+Nearly five years of building software for startups, two of them taken from idea to product-market fit. Once the product worked, growth was the bottleneck, and growth is full of repeat steps. Developers automate repeat steps, so I moved into GTM engineering.
 
-Once a product works, growth becomes the job: reaching the right people, turning interest into conversations, and keeping up as customers arrive. That work is full of repeat steps, and repeat steps are what developers automate. So I moved into GTM engineering, to build the systems growth needs instead of waiting for them.
-
-For the last three months I've been learning by doing: sending email at scale. Domains and inboxes, data sourcing and verification, message testing, fast replies. Running it myself is how I learned which parts break first and which are worth building.
+The last three months I've spent sending email at scale myself, which is how I learned what breaks first and what's worth building.
 
 > **Guarantee:** 20 qualified meetings in 60 days, or I keep working for free.
 
